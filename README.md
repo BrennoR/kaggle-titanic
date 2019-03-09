@@ -7,3 +7,4 @@ testing and were then used as the basis for subsequent models. A very low score 
 more and better feature engineering/preprocessing should be performed. 
 
 **Data Exploration: (Score: 0.74162, Ranking: 8776/9897)** [dataset_exploration.ipynb](https://github.com/BrennoR/kaggle-titanic/blob/master/data_exploration.ipynb)
+**2nd Model: (Score: 0.74641, Ranking: 8593/9897)** [model_2.ipynb](https://github.com/BrennoR/kaggle-titanic/blob/master/model_2.ipynb)
